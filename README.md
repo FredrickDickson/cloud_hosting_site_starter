@@ -55,7 +55,7 @@ cloudpro-host/
 Clone the repository:
 
 ```bash
-git clone https://github.com/FredrickDickson/cloudpro-host.git
+git clone https://github.com/FredrickDickson/cloud_hosting_site_starter
 cd cloudpro-host
 
 If using a backend:
